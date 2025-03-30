@@ -8,3 +8,5 @@ venv
 helper
 data
 cookbook 
+/notebooks/flax
+/notebooks/jax
